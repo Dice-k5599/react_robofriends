@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react_robofriends/static/css/main.e82bf08d.css",
+    "main.js": "/react_robofriends/static/js/main.310b9952.js",
+    "static/js/592.b649814e.chunk.js": "/react_robofriends/static/js/592.b649814e.chunk.js",
+    "static/media/Lakers Alt.woff": "/react_robofriends/static/media/Lakers Alt.55ba2557cc26eae40289.woff",
+    "static/media/Lakers.woff": "/react_robofriends/static/media/Lakers.c808b2f95314c1654bff.woff",
+    "index.html": "/react_robofriends/index.html",
+    "main.e82bf08d.css.map": "/react_robofriends/static/css/main.e82bf08d.css.map",
+    "main.310b9952.js.map": "/react_robofriends/static/js/main.310b9952.js.map",
+    "592.b649814e.chunk.js.map": "/react_robofriends/static/js/592.b649814e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e82bf08d.css",
+    "static/js/main.310b9952.js"
+  ]
+}
