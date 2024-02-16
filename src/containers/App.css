@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Lakers Alt.ttf';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Lakers Alt.ttf'), url('Lakers Alt.woff') format('woff');
+}
+@font-face {
+  font-family: 'Lakers.ttf';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Lakers.ttf'), url('Lakers.woff') format('woff');
+}
+
+
+h1 {
+    font-size: 4rem;
+    font-family: 'Lakers.ttf';
+    text-transform: uppercase;
+    /* text-decoration: underline; */
+    text-decoration-color: #7223d8;
+    text-decoration-thickness: 0.4rem;
+    /* text-underline-offset: 0.4rem; */
+    color: #f9f9f9;
+    margin-top: 80px;
+  }
