@@ -9,7 +9,7 @@ But how could we use any of the props when the wrapper doesn't have any props pa
 */
 const Scroll = (props) => {
     return (
-        <div style={{ overflowY: 'scroll', height: '500px' }}>
+        <div style={{ overflowY: 'auto', height: '500px' }}>
             {props.children}
         </div>
     );

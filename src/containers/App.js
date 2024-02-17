@@ -49,7 +49,8 @@ class App extends Component {
             return (    
                 <div className='tc'>
                     <h1><strong>Lakers Index</strong></h1>
-                    <SearchBox searchChange={this.onSearchChange}/>
+                    <SearchBox searchChange={this.onSearchChange} />
+                    {" "}
                     {/* you could wrap a component with another component:
                     in this case CardList is wrapped by Scroll */}
                     <Scroll>
